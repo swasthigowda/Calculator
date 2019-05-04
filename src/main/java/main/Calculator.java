@@ -64,5 +64,13 @@ public class Calculator {
     	result=x/y;
     	return result;
     }
+    public static void main1(String args[]) {
+		//System.out.println(printHello());
+		System.out.println(add(2,4));
+		System.out.println(add(6,5));
+		System.out.println(add(6,5));
+		System.out.println(add(20,5));
+		
+    }
 
 }
